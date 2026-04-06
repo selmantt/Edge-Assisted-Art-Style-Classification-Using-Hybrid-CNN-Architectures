@@ -22,6 +22,8 @@ Automated art style classification is a challenging task due to high intra-class
 4. Training: cross-entropy loss, Adam optimizer, learning rate scheduling
 5. Evaluation: Top-1 accuracy, confusion matrix, per-class F1
 
+## Project Structure
+
 ```
 ├── Project Report.pdf  # Full technical report with architecture diagrams and results
 ├── README.md
@@ -37,4 +39,3 @@ Python · PyTorch · torchvision · OpenCV · NumPy · Matplotlib
 MIT
 
 
-## Project Structure
