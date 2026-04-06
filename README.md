@@ -37,7 +37,4 @@ Python · PyTorch · torchvision · OpenCV · NumPy · Matplotlib
 MIT
 
 
-
-```
-
 ## Project Structure
